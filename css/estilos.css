@@ -17,34 +17,12 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-}
-.logo{
-
-
 }
 .menuprincipal{
     
     width: 25%;
     display: flex;
     justify-content: space-between;
-
-}
-.menuprincipal__contactar{
-
-}
-.menuprincipal__galeria{
-
-}
-.menuprincipal__serivcios{
-
-}
-
-.banner{
-
-
-}
-.contenido{
 
 }
 
@@ -71,44 +49,16 @@ header{
     color: #ffff;
 
 }
-.legal__cokies{
-    
-
-}
-.legal__terminos{
-
-}
-.legal__titulo{
-
-}
 .social{
     
     list-style-type: none;
     color: #ffff;
-    
-}
-.social__instagram{
-
-}
-.social__pinterest{
-
-}
-.social__titulo{
-
-}
-.social__twitter{
 
 }
 .titulo{
 
     display: flex;
     justify-content: center;
-
-   
-}
-.zonainferior{
-    
-
 }
 .zonainferior__casas{
 
@@ -126,23 +76,10 @@ header{
     justify-content:space-between;
 
 }
-.zonasuperior{
-
-}
 .zonasuperior__flores{
 
 
 display: flex;
-
-  
-
-}
-.zonasuperior__flores__imagen{
-
-
-
-}
-.zonasuperior__flores__texto{
 
 }
 .zonasuperior__flores__texto_parrafo{
